@@ -58,4 +58,4 @@ class AdditionSignForIntegers {
 the number value of "4*. Then, the program would combine the original value of the variable (4) with the other inputted number value, which is "6",
 meaning that the new value for the variable "number" would now be 10, because it's original value got combined with the number 6.
 
-And then, finally, the program will output the variable's value to the console, outputting 10 as the variable's value.*/
+And then, finally, the program will output the variable's value to the console, outputting 10 as the variable's value. A*/
